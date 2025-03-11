@@ -520,7 +520,7 @@ button {
     border: transparent;
 }
 
-.chair_text {
+.cloth_text {
     width: 100%;
     font-size: 18px;
     color: #0F173F;
@@ -529,11 +529,17 @@ button {
     font-weight: 500;
 }
 
-.image_3 {
+.image_4 {
     width: 100%;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 120px;
+    min-height: 332px;
+}
+.image_6 {
+    width: 100%;
+    text-align: center;
+    padding-top: 120px;
+    min-height: 332px;
 }
 
 .image_4 {
